@@ -1,4 +1,4 @@
-# tflite_test
+# tflite_flutter
 
 A new Flutter application.
 
